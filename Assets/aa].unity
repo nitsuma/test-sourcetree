@@ -524,7 +524,11 @@ GameObject:
   - component: {fileID: 2083719072}
   - component: {fileID: 2083719071}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: gomi
+=======
+  m_Name: Capsule
+>>>>>>> 5b305132ea6f36b8638adfae0e257555239f8b48
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -539,7 +543,10 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
+<<<<<<< HEAD
   m_DynamicOccludee: 1
+=======
+>>>>>>> 5b305132ea6f36b8638adfae0e257555239f8b48
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -555,7 +562,10 @@ MeshRenderer:
   m_PreserveUVs: 1
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+<<<<<<< HEAD
   m_StitchSeams: 0
+=======
+>>>>>>> 5b305132ea6f36b8638adfae0e257555239f8b48
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -591,9 +601,17 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2083719070}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 4.54, y: 9.77, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
+=======
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+>>>>>>> 5b305132ea6f36b8638adfae0e257555239f8b48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
