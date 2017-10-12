@@ -45,9 +45,14 @@ C:/Program Files/Unity 2017.2.0b3/Editor/Data/Managed/UnityEngine/UnityEngine.Te
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll
+C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
+C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/UnityAR/RuntimeEditor/UnityEngine.AR.dll
+C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
 C:/Program Files/Unity 2017.2.0b3/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
 C:/Users/vantan/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@0.0.16/UnityEngine.Advertisements.dll
 C:/Users/vantan/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@0.0.17/UnityEngine.Analytics.dll
